@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[La Belle Media]]></title>
         <description><![CDATA[La Belle Media]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/la-belle-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 20:05:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jul 2016 20:18:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/la-belle-media/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2eb85c19-021a-45cf-817a-52bca53958a2.jpg">]]></description>
-            <link>undefined4498a67e-49ad-4de6-a428-0649ac9b7a45/index.html</link>
+            <link>https://thegrid.ai/la-belle-media/4498a67e-49ad-4de6-a428-0649ac9b7a45/index.html</link>
             <guid isPermaLink="false">4498a67e-49ad-4de6-a428-0649ac9b7a45</guid>
-            <pubDate>Sun, 17 Jul 2016 20:05:00 GMT</pubDate>
+            <pubDate>Sun, 17 Jul 2016 20:18:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
